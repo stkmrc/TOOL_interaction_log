@@ -1,3 +1,5 @@
+[![RepoReady](https://img.shields.io/endpoint?url=https%3A%2F%2Fapi.repoready.dev%2Fapi%2Fbadges%2F6c72a8a2-077d-4767-a8ed-9a16e1f60868%2Fbadge)](https://app.repoready.dev/shared/badges/6c72a8a2-077d-4767-a8ed-9a16e1f60868)
+
 ## Instructions
 
 To reproduce, please create an _input_ folder and place inside **event_log.csv** from [here](https://zenodo.org/records/10377466).
