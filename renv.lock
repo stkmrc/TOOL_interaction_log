@@ -1,0 +1,5 @@
+{
+  "packages": {
+    // List of packages and their versions will be automatically populated by renv snapshot.
+  }
+}
