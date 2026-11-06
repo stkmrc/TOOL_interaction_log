@@ -1,3 +1,5 @@
+[![RepoReady · L1 · Available](https://api.repoready.dev/api/badges/v2/382f7d99-2cc1-4d81-b85e-dd7fc22ac066/svg)](https://app.repoready.dev/shared/badges/382f7d99-2cc1-4d81-b85e-dd7fc22ac066)
+
 ## Instructions
 
 To reproduce, please create an _input_ folder and place inside **event_log.csv** from [here](https://zenodo.org/records/10377466).
